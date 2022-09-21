@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seyed-ALI-Dashti
+- 👋 Hi, I’m Seyed ALI Dashti
 - 👀 I’m interested in Web programming،Especially a group
 - 🌱 I’m currently learning Web programming
 - 💞️ I’m looking to collaborate on ...
